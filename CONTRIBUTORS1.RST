@@ -11,44 +11,25 @@ Credits
 Development Lead
 ----------------
 
-- Carmen Bianca Bakker <carmenbianca@fsfe.org>
+- Marge Simpson <margesimpson@example.org>
 
 Contributors
 ------------
 
-- Sebastian Schuberth <schuberth@fsfe.org>
+- Homer Simpson <homersimpson@example.org>
 
-- Kirill Elagin
+- Bart Simpson <bartsimpson@example.org>
 
-- Max Mehl <max.mehl@fsfe.org>
 
-- Matija Šuklje <hook@fsfe.org>
-
-- Greg Kroah-Hartman
-
-- Basil Peace
-
-- Keith Maxwell
-
-- Stefan Bakker <s.bakker777@gmail.com>
 
 Translators
 -----------
 
 - Dutch:
 
-  + André Ockers <ao@fsfe.org>
-
-  + Carmen Bianca Bakker <carmenbianca@fsfe.org>
-
-- Esperanto:
-
-  + Carmen Bianca Bakker <carmenbianca@fsfe.org>
-
-  + Tirifto <tirifto@posteo.cz>
+  + Krusty the Clown <krusty@clowining.org>
 
 - Spanish:
 
-  + flow <adolflow@sindominio.net>
+  + Sideshow Bob <Bob@simpsons.net>
 
-  + pd <euklade@gmail.com>
