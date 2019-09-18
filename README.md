@@ -1,20 +1,14 @@
 <!--
-SPDX-FileCopyrightText: 2019 Jane Doe <jane@example.com>
+Copyright 2019 Joanna Lee
+Copyright 2018 Free Software Foundation Europe
 
-SPDX-License-Identifier: GPL-3.0-or-later
+SPDX-License-Identifier: CC-BY-4.0
+
 -->
 
-# REUSE Example
+Example
 
-This file is an example repository for REUSE compliance.  It is identical to
-the example provided in [the tutorial](https://reuse.software/tutorial).
-
-This repository contains two branches---one that is compliant with REUSE, and
-one that has no copyright and licensing information whatsoever.  These are the
-links to the branches:
-
-- Compliant: <https://github.com/fsfe/reuse-example>
-
-- Non-compliant: <https://github.com/fsfe/reuse-example/tree/noncompliant>
+This file is an example repository for compliance with ONF's policies regarding 
+source file headers, license files, notice and attribution.  
 
 Feel free to poke around!
