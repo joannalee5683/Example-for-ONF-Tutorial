@@ -1,0 +1,16 @@
+=========================================================================
+==  Example NOTICE file
+=========================================================================
+
+[Name of Software Program]
+Copyright 2019 Open Networking Foundation and Contributors
+Copyright 2019 Joanna Lee
+Copyright 2011-2019 Free Software Foundatin Europe
+
+This program includes code and other materials developed at
+Open Networking Foundation (https://www.opennetworking.org/).
+
+This program contains materials derived from the Free Software
+Foundation Europe's REUSE example (https://git.fsfe.org/reuse/example),
+which were modified for a tutorial on file headers and notice and license
+filen.  The modifications are Copyright 2019 Joanna Lee.  
