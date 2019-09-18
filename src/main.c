@@ -1,6 +1,7 @@
 /*
- * Copyright 2019 Open Networking Foundation and Contributors
- * Copyright 2019 Jane Doe <jane@example.com>
+ * Copyright 2019 Open Networking Foundation
+ * Copyright 2019 Joanna Lee
+ * Copyright 2011-2018 Free Software Foundation Europe and Contributors
  *
  * SPDX-License-Identifier: Apache-2.0
  *
