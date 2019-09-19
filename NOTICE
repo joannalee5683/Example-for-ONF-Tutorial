@@ -1,16 +1,18 @@
-=========================================================================
-==  Example NOTICE file
-=========================================================================
+ 
+Magical Creatures Software Package
+Copyright 2016-present Open Networking Foundation
 
-[Name of Software Program]
-Copyright 2019 Open Networking Foundation and Contributors
-Copyright 2019 Joanna Lee
-Copyright 2011-2019 Free Software Foundatin Europe
+Notices for Example-for-ONF-Tutorial/src/3rd-Party-Component.c
 
-This program includes code and other materials developed at
-Open Networking Foundation (https://www.opennetworking.org/).
+A Hobbit's Tale Subcomponent
+Copyright 2016-2017 Gandalf the Grey
 
-This program contains materials derived from the Free Software
-Foundation Europe's REUSE example (https://git.fsfe.org/reuse/example),
-which were modified for a tutorial on file headers and notice and license
-filen.  The modifications are Copyright 2019 Joanna Lee.  
+This product includes materials developed at
+the Shire.
+
+This software contains code derived from the Middle Earth Software
+Package including various modifications by Gollum and Frodo Baggins.
+
+This software package was modified by Open Networking Foundation to
+make it compliant with the OpenFlow standard.  The modifications
+are Copyright 2017-present Open Networking Foundation.
