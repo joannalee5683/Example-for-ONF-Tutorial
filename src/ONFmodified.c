@@ -35,6 +35,6 @@
 #include <stdio.h>
 int main()
 {
-   printf("Hello, World!");
+   printf("Hello, Bart Simpson!");
    return 0;
 }
