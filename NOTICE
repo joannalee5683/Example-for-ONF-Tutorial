@@ -2,17 +2,25 @@
 Magical Creatures Software Package
 Copyright 2016-present Open Networking Foundation
 
+--------------------------------------------------------------------
 Notices for Example-for-ONF-Tutorial/src/3rd-Party-Component.c:
 
-A Hobbit's Tale Subcomponent
-Copyright 2016-2017 Gandalf the Grey
+The Simpsons Subcomponent (MODIFIED)
+Copyright 2017-present Open Networking nFoundation
+Copyright 2016-2017 Matt Groening
 
-This product includes materials developed at
-the Shire.
+This program includes code based on The Simpsons Subcomponent.  The
+original version is available at
+<www.github.com/MattGroening/The-Simpsons-Subcomponent>, and is
+licensed under the MIT LIcense.  It was modified by the Open Networking
+Foundation for conformance to the OpenFlow standard and to fix bugs.
+The modifications are licensed under the Apache License 2.0.
 
-This software contains code derived from the Middle Earth Software
-Package including various modifications by Gollum and Frodo Baggins.
+--------------------------------------------------------------------
+Notices for Example-for-ONF-Tutorial/images/cat.jpg
 
-This software package was modified by Open Networking Foundation to
-make it compliant with the OpenFlow standard.  The modifications
-are Copyright 2017-present Open Networking Foundation.
+Cutest Cat Picture Ever
+Copyright 2015
+
+No animals were harmedin the creation of this image.  This image
+is provided "AS IS" with no warranties of any kind.
