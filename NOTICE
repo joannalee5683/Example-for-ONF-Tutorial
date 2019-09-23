@@ -1,22 +1,19 @@
- 
-Magical Creatures Software Package
+Overall Software Package
 Copyright 2016-present Open Networking Foundation
 
---------------------------------------------------------------------
+-----------------------------------------------------------------------
 Notices for Example-for-ONF-Tutorial/src/3rd-Party-Component.c:
 
 The Simpsons Subcomponent (MODIFIED)
-Copyright 2017-present Open Networking nFoundation
+Copyright 2017-present Open Networking Foundation
 Copyright 2016-2017 Matt Groening
 
-This program includes code based on The Simpsons Subcomponent.  The
-original version is available at
-<www.github.com/MattGroening/The-Simpsons-Subcomponent>, and is
-licensed under the MIT LIcense.  It was modified by the Open Networking
-Foundation for conformance to the OpenFlow standard and to fix bugs.
-The modifications are licensed under the Apache License 2.0.
+This program includes code based on The Simpsons Subcomponent available 
+at <www.github.com/MattGroening/The-Simpsons-Subcomponent>.  It has
+been modified by the Open Networking Foundation for conformance to 
+the OpenFlow standard.
 
---------------------------------------------------------------------
+-------------------------------------------------------------------------
 Notices for Example-for-ONF-Tutorial/images/cat.jpg
 
 Cutest Cat Picture Ever
