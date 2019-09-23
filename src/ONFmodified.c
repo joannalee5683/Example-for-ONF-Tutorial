@@ -1,6 +1,8 @@
 /*
+ * The Simpsons Subcomponent 
+ *
  * Copyright 2019 Open Networking Foundation
- * Copyright 2017 Jane Smith
+ * Copyright 2017 Matt Groening
  *
  * SPDX-License-Identifier: Apache-2.0 AND MIT 
  *
