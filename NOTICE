@@ -1,8 +1,16 @@
-Overall Software Package
-Copyright 2016-present Open Networking Foundation
+Project Name
+Copyright YYYY-present Open Networking Foundation
+
+This program includes software developed at the Open Networking 
+Foundation.  This program is licensed to you under the Apache 
+License, Version 2.0.
+
+This program may include subcomponents with separate copyright 
+notices and license terms.  Your use of each of these subcomponents 
+is subject to the terms and conditions of the subcomponent’s license.
 
 -----------------------------------------------------------------------
-Notices for Example-for-ONF-Tutorial/src/3rd-Party-Component.c:
+Example-for-ONF-Tutorial/src/3rd-Party-Component.c:
 
 The Simpsons Subcomponent (MODIFIED)
 Copyright 2017-present Open Networking Foundation
@@ -14,7 +22,7 @@ been modified by the Open Networking Foundation for conformance to
 the OpenFlow standard.
 
 -------------------------------------------------------------------------
-Notices for Example-for-ONF-Tutorial/images/cat.jpg
+Example-for-ONF-Tutorial/images/cat.jpg
 
 Cutest Cat Picture Ever
 Copyright 2015 Krazy Kat Lady
